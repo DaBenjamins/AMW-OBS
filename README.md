@@ -2,7 +2,7 @@
 
 ## [Releases](https://github.com/DaBenjamins/AMW-OBS/releases)
 
-## Virtue Gaming Asset Setup
+## Amateur Worlds Asset Setup
 
 For the entirety of AA we will be using a dynamic asset setup for streams. Its a pretty straightforward implementation.
 Any Issues contact Benjamins#0001
@@ -11,14 +11,16 @@ Any Issues contact Benjamins#0001
 2. Download move the move transition, transition table, and spectralizer plugins
 	1. https://github.com/univrsal/spectralizer/releases/tag/v1.3.4
 	2. VLC Player - https://www.videolan.org/vlc/download-windows.html
+	3. Window Audio Capture - https://github.com/bozbez/win-capture-audio
 3. Install plugins into your OBS
 4. Verify Spectralizer is a source type
 5. Import .json through Scene Collection on toolbar
 6. Ignore Missing Files dialog box, click cancel
 7. CHECK AUDIO SOURCES
+8. Update Source Links [Document](https://docs.google.com/spreadsheets/d/1QNADXY0jrh_Ewpnsmy1F4rOzouzbyXhS90Gpteh1voQ/)
 
 
-## Virtue Gaming Flow of the Show
+## Amateur Worlds Flow of the Show
 
 1. Stream Starts
 	1. Intermission Scene
@@ -38,8 +40,8 @@ Any Issues contact Benjamins#0001
 	1. In Game Scene
 6. Post Game Wrap up
 	1. Caster Desk
-7. Host Interview
-	1. Host + Interview Scene
+7. Host + Analyst Desk
+	1. AD Standard Scene
 8. Between Game Break
 	1. Intermission Scene
 9. Repeat Caster Draft Through Host Interview per game
