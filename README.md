@@ -12,6 +12,7 @@ Any Issues contact Benjamins#0001
 	1. https://github.com/univrsal/spectralizer/releases/tag/v1.3.4
 	2. VLC Player - https://www.videolan.org/vlc/download-windows.html
 	3. Window Audio Capture - https://github.com/bozbez/win-capture-audio
+	4. Timer OBS Script [Download](https://raw.githubusercontent.com/DaBenjamins/AMW-OBS/main/countdownadaptivetime.lua)
 3. Install plugins into your OBS
 4. Verify Spectralizer is a source type
 5. Import .json through Scene Collection on toolbar
