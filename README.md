@@ -4,9 +4,6 @@
 
 ## Amateur Worlds Asset Setup
 
-For the entirety of AA we will be using a dynamic asset setup for streams. Its a pretty straightforward implementation.
-Any Issues contact Benjamins#0001
-
 1. [Download](https://github.com/DaBenjamins/AMW-OBS/releases) the .json file from the folder
 2. Download move the move transition, transition table, and spectralizer plugins
 	1. https://github.com/univrsal/spectralizer/releases/tag/v1.3.4
