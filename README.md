@@ -11,7 +11,7 @@
 	3. Window Audio Capture - https://github.com/bozbez/win-capture-audio
 	4. Timer OBS Script - Right click save as [Download](https://raw.githubusercontent.com/DaBenjamins/AMW-OBS/main/countdownadaptivetime.lua)
 3. Install plugins into your OBS
-4. Verify Spectralizer is a source type
+4. Verify Plugins in OBS
 5. Import .json through Scene Collection on toolbar
 6. Ignore Missing Files dialog box, click cancel
 7. CHECK AUDIO SOURCES
